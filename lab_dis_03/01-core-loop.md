@@ -3,7 +3,7 @@ type: gdd-core-loop
 version: 0.1
 date: [7/7/69]
 ---
-# [The Tower Line Battle] — Core Loop & Gameplay
+# [Underwake] — Core Loop & Gameplay
 
 ## Core Loop
 
