@@ -1,7 +1,7 @@
 ---
 type: doc-index
 version: 0.1
-date: [วันที่]
+date: [14/7/2026]
 ---
 # [Underwake] — Documentation Index
 
@@ -40,9 +40,9 @@ date: [วันที่]
 
 ## 📁 ใครดูแลส่วนไหน
 
-| คนที่ | รับผิดชอบ  | โฟลเดอร์ staging                |
-| ---------- | ------------------- | --------------------------------------- |
-| 1          | Sprites / Textures  | `docs/02_Assets/_candidates/sprites/` |
-| 2          | Sound Effects (SFX) | `docs/02_Assets/_candidates/sfx/`     |
-| 3          | Music / BGM         | `docs/02_Assets/_candidates/music/`   |
-| 4          | Fonts + Data        | `docs/02_Assets/_candidates/fonts/`   |
+| คนที่                                       | รับผิดชอบ  | โฟลเดอร์ staging                |
+| ------------------------------------------------ | ------------------- | --------------------------------------- |
+| 1 นายชยพล นากิจ                      | Sprites / Textures  | `docs/02_Assets/_candidates/sprites/` |
+| 2 นายวุฒิภัทร นวมนิ่ม         | Sound Effects (SFX) | `docs/02_Assets/_candidates/sfx/`     |
+| 3 นายอัตถนิรัต แปงใจดี       | Music / BGM         | `docs/02_Assets/_candidates/music/`   |
+| 4 นายเอกการัณ กิ่งสักกลาง | Fonts + Data        | `docs/02_Assets/_candidates/fonts/`   |
