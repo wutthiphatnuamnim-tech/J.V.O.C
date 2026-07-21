@@ -1,7 +1,7 @@
 ---
 type: jam-timeline
 version: 0.1
-date: [21/07/2026]
+date: [21/07/26]
 team: [J.V.O.C]
 ---
 # 48-Hour Timeline — [J.V.O.C]
