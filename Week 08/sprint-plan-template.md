@@ -34,7 +34,6 @@ Status Legend
 
 ## Tasks
 
-
 ### Story 1 — [Enemy]
 
 - [ ] [Enemy System]  [นายวุฒิภัทร นวมนิ่ม]  [5]  [🔄 In Progress]
@@ -42,12 +41,11 @@ Status Legend
 
 ### Story 2 — [Fight]
 
-- [ ] [Fight System]  [นายวุฒิภัทร นวมนิ่ม]  [3]  [ ✅ Done]
-
+- [X] [Fight System]  [นายวุฒิภัทร นวมนิ่ม]  [3]  [ ✅ Done]
 
 ### Story 3 — [Character]
 
-- [ ] [All Character System ]  [นายวุฒิภัทร นวมนิ่ม]  [3]  [✅ Done]
+- [X] [All Character System ]  [นายวุฒิภัทร นวมนิ่ม]  [3]  [✅ Done]
 - [ ] [All Character Texture ]  [อัตถนิรัต แปงใจดี],[เอกการัณ กิ่งสักกลาง]  [3]  [🔄 In Progress]
 - [ ] [All Character Animation ]  [อัตถนิรัต แปงใจดี],[เอกการัณ กิ่งสักกลาง]  [3]  [🔄 In Progress]
 
