@@ -43,7 +43,7 @@ gantt
 | # | User Story                                                                             | MoSCoW      | Estimate (SP) |
 | - | -------------------------------------------------------------------------------------- | ----------- | ------------- |
 | 1 | As a player, I want to see UI, so that I can interact in game                          | Should Have | 7             |
-| 2 | As a player, I want to Fight, so that I Need Animation sprite sheet to see my Movement | Must Have   | 1             |
+| 2 | As a player, I want to Fight, so that I Need Animation sprite sheet to see my Movement | Should Have | 1             |
 | 3 | As a player, I want to Stand , so that I Need Background stage to make me stand        | Must Have   | 6             |
 | 4 | As a player, I want to see my Ultimate skill, so that To make me feel impact           | Should Have | 15            |
 

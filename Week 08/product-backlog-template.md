@@ -7,22 +7,23 @@
 
 ## Must Have (MVP)
 
-| # | User Story                                                                             | Acceptance Criteria                                                                                            | Estimate (SP) | Sprint |
-| - | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------- | ------ |
-| 1 | As a player, I want to Fight, so that I Need Animation sprite sheet to see my Movement | คลิกโจมตีแล้วตัวละครพุ่งไปโจมตีแสดง Animation                               | 1             | 2      |
-| 2 | As a player, I want to Fight, so that I Need Enemy to fight                            | ศัตรูโผล่ขึ้นมาและตัวละครสามารถโจมตีศัตรูฝั่งตรงข้ามได้ | 5             | 1      |
-| 3 | As a player, I want to Fight, so that I Need System to make me to fight                | คลิกโจมตีแล้วตัวละครพุ่งไปโจมตี                                                 | 3             | 1      |
-| 4 | As a player, I want to Stand , so that I Need Background stage to make me stand        | มี Background แสดงขึ้นมา เพื่อไม่ให้แสดงว่าตัวละครยืนลอย            | 6             | 2      |
-| 5 | As a player, I want More Character , so that To make me strong                         | มีตัวละครหลากหลาย                                                                             | 8             | 1      |
+| # | User Story                                                                      | Acceptance Criteria                                                                                            | Estimate (SP) | Sprint |
+| - | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------- | ------ |
+| 1 | As a player, I want to Fight, so that I Need Enemy to fight                     | ศัตรูโผล่ขึ้นมาและตัวละครสามารถโจมตีศัตรูฝั่งตรงข้ามได้ | 5             | 1      |
+| 2 | As a player, I want to Fight, so that I Need System to make me to fight         | คลิกโจมตีแล้วตัวละครพุ่งไปโจมตี                                                 | 3             | 1      |
+| 3 | As a player, I want to Stand , so that I Need Background stage to make me stand | มี Background แสดงขึ้นมา เพื่อไม่ให้แสดงว่าตัวละครยืนลอย            | 6             | 2      |
+| 4 | As a player, I want More Character , so that To make me strong                  | มีตัวละครหลากหลาย                                                                             | 8             | 1      |
 
 ## Should Have
 
-| # | User Story                                                                        | Acceptance Criteria                                                                         | Estimate (SP) | Sprint |
-| - | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------- | ------ |
-| 1 | As a player, I want to see my Hp bars, so that I know how close I am to game over | หลอกเลือดแสดงบนจอตลอดเวลา ลดลงทันทีที่โดนโจมตี | 3             | 1      |
-| 2 | As a player, I want to see UI, so that I can interact in game                     | สามารถกดเพื่อแสดง action                                                   | 7             | 2      |
-| 3 | As a player, I want to see my Ultimate skill, so that To make me feel impact      | สามารถใช้สกิล ulitimate ได้                                                 | 15            | 2      |
-| 4 | As a player, I want to hear SFX, so that To make me feel impressive               | สามารถได้ยินเสียง SFX ได้                                               | 3             | 3      |
+| # | User Story                                                                             | Acceptance Criteria                                                                                 | Estimate (SP) | Sprint |
+| - | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------- | ------ |
+| 1 | As a player, I want to Fight, so that I Need Animation sprite sheet to see my Movement | คลิกโจมตีแล้วตัวละครพุ่งไปโจมตีแสดง Animation                    | 1             | 2      |
+| 2 | As a player, I want to see my Hp bars, so that I know how close I am to game over      | หลอกเลือดแสดงบนจอตลอดเวลา ลดลงทันทีที่โดนโจมตี         | 3             | 1      |
+|   | As a player, I want to Stand , so that I Need Background stage to make me stand        | มี Background แสดงขึ้นมา เพื่อไม่ให้แสดงว่าตัวละครยืนลอย | 6             | 2      |
+| 3 | As a player, I want to see UI, so that I can interact in game                          | สามารถกดเพื่อแสดง action                                                           | 7             | 2      |
+| 4 | As a player, I want to see my Ultimate skill, so that To make me feel impact           | สามารถใช้สกิล ulitimate ได้                                                         | 15            | 2      |
+| 5 | As a player, I want to hear SFX, so that To make me feel impressive                    | สามารถได้ยินเสียง SFX ได้                                                       | 3             | 3      |
 
 ## Nice to Have
 
