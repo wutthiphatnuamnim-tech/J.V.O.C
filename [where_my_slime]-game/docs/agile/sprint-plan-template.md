@@ -16,12 +16,13 @@
 
 ## Sprint Backlog
 
-| # | User Story                                                                        | รับผิดชอบ                                                                 | MoSCoW    | Estimate (SP) | Status         |
-| - | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------- | ------------- | -------------- |
-| 1 | As a player, I want to Fight, so that I Need Enemy to fight                       | [นายวุฒิภัทร นวมนิ่ม]                                            | Must Have | 5             | 🔄 In Progress |
-| 2 | As a player, I want to Fight, so that I Need System to make me to fight           | [นายวุฒิภัทร นวมนิ่ม]                                            | Must Have | 3             | ✅ Done        |
-| 3 | As a player, I want More Character , so that To make me strong                    | [อัตถนิรัต แปงใจดี]<br />[เอกการัณ กิ่งสักกลาง] | Must Have | 8             | 🔄 In Progress |
-| 4 | As a player, I want to see my Hp bars, so that I know how close I am to game over | [นายวุฒิภัทร นวมนิ่ม]                                            | Must Have | 3             | 🔄 In Progress |
+| # | User Story                                                                         | รับผิดชอบ                                                                 | MoSCoW      | Estimate (SP) | Status         |
+| - | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------- | ------------- | -------------- |
+| 1 | As a player, I want to Fight, so that I Need Enemy to fight                        | [นายวุฒิภัทร นวมนิ่ม]                                            | Must Have   | 5             | 🔄 In Progress |
+| 2 | As a player, I want to Fight, so that I Need System to make me to fight            | [นายวุฒิภัทร นวมนิ่ม]                                            | Must Have   | 3             | ✅ Done        |
+| 3 | As a player, I want More Character , so that To make me strong                     | [อัตถนิรัต แปงใจดี]<br />[เอกการัณ กิ่งสักกลาง] | Must Have   | 8             | 🔄 In Progress |
+| 4 | As a player, I want to see my Hp bars, so that I know how close I am to game over  | [นายวุฒิภัทร นวมนิ่ม]                                            | Must Have   | 3             | 🔄 In Progress |
+| 5 | As a player, I want to watch cutscenes Story, so that I can understand the story | [นายชยพล นากิจ]                                                        | Should Have | 15            | 🔄 In Progress |
 
 Status Legend
 
@@ -34,7 +35,7 @@ Status Legend
 
 ## Tasks
 
-### Story 1 — [Enemy]
+### Story 1 — [Enemy] เขียนระบบศัตรู & วาด Sprite Enemy
 
 - [ ] [Enemy System]  [นายวุฒิภัทร นวมนิ่ม]  [5]  [🔄 In Progress]
 - [ ] [Enemy Texture]  [เอกการัณ กิ่งสักกลาง]]  [7]  [🔲 Todo]
@@ -52,6 +53,10 @@ Status Legend
 ### Story 4 — [HP}]
 
 - [ ] [Hp System ]  [นายวุฒิภัทร นวมนิ่ม]  [3]  [🔄 In Progress]
+
+### Story 5 — [Cutscenes}]
+
+- [ ] [Story]  [นายชยพล นากิจ]  [15]  [🔄 In Progress]
 
 ---
 

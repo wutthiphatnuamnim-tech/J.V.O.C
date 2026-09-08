@@ -31,12 +31,13 @@ gantt
 
 ## Sprint 1 (กำลังทำ)
 
-| # | User Story                                                                        | MoSCoW      | Estimate (SP) |
-| - | --------------------------------------------------------------------------------- | ----------- | ------------- |
-| 1 | As a player, I want to Fight, so that I Need Enemy to fight                       | Must Have   | 5             |
-| 2 | As a player, I want to Fight, so that I Need System to make me to fight           | Must Have   | 3             |
-| 3 | As a player, I want More Character , so that To make me strong                    | Must Have   | 8             |
-| 4 | As a player, I want to see my Hp bars, so that I know how close I am to game over | Should Have | 3             |
+| # | User Story                                                                         | MoSCoW      | Estimate (SP) |
+| - | ---------------------------------------------------------------------------------- | ----------- | ------------- |
+| 1 | As a player, I want to Fight, so that I Need Enemy to fight                        | Must Have   | 5             |
+| 2 | As a player, I want to Fight, so that I Need System to make me to fight            | Must Have   | 3             |
+| 3 | As a player, I want More Character , so that To make me strong                     | Must Have   | 8             |
+| 4 | As a player, I want to see my Hp bars, so that I know how close I am to game over  | Should Have | 3             |
+| 5 | As a player, I want to watch cutscenes Story, so that I can understand the story | Should Have | 15            |
 
 ## Sprint 2 (Draft)
 
