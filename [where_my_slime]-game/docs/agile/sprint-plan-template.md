@@ -37,35 +37,35 @@ Status Legend
 
 ### Story 1 — [Enemy] เขียนระบบศัตรู & วาด Sprite Enemy
 
-- [ ] [Enemy System]  [นายวุฒิภัทร นวมนิ่ม]  [5]  [🔄 In Progress]
-- [ ] [Enemy Texture]  [เอกการัณ กิ่งสักกลาง]]  [7]  [🔲 Todo]
+- [ ] [Enemy System]  [นายวุฒิภัทร นวมนิ่ม] [Programmer] [actual : 6]  [estimate : 5]  [🔄 In Progress]
+- [ ] [Enemy Texture]  [เอกการัณ กิ่งสักกลาง]  [Artist]  [actual : 4] [estimate : 7]  [🔄 In Progress]
 
 ### Story 2 — [Fight]
 
-- [X] [Fight System]  [นายวุฒิภัทร นวมนิ่ม]  [3]  [ ✅ Done]
+- [X] [Fight System]  [นายวุฒิภัทร นวมนิ่ม] [Programmer] [actual : 10] [estimate : 3]  [ ✅ Done]
 
 ### Story 3 — [Character]
 
-- [X] [All Character System ]  [นายวุฒิภัทร นวมนิ่ม]  [3]  [✅ Done]
-- [ ] [All Character Texture ]  [อัตถนิรัต แปงใจดี],[เอกการัณ กิ่งสักกลาง]  [3]  [🔄 In Progress]
-- [ ] [All Character Animation ]  [อัตถนิรัต แปงใจดี],[เอกการัณ กิ่งสักกลาง]  [3]  [🔄 In Progress]
+- [X] [All Character System ]  [นายวุฒิภัทร นวมนิ่ม] [Programmer] [actual : 6]  [estimate : 3]  [✅ Done]
+- [ ] [All Character Texture ]  [อัตถนิรัต แปงใจดี],[เอกการัณ กิ่งสักกลาง] [Artist] [actual : 4]  [estimate : 3]  [🔄 In Progress]
+- [ ] [All Character Animation ]  [อัตถนิรัต แปงใจดี],[เอกการัณ กิ่งสักกลาง] [Artist] [actual : 3]  [estimate : 3]  [🔄 In Progress]
 
 ### Story 4 — [HP}]
 
-- [ ] [Hp System ]  [นายวุฒิภัทร นวมนิ่ม]  [3]  [🔄 In Progress]
+- [ ] [Hp System]  [นายวุฒิภัทร นวมนิ่ม] [Programmer] [actual : 2 ]  [estimate :3]  [✅ Done]
 
 ### Story 5 — [Cutscenes}]
 
-- [ ] [Story]  [นายชยพล นากิจ]  [15]  [🔄 In Progress]
+- [ ] [Story]  [นายชยพล นากิจ] [Artist] [actual : 3]  [estimate : 15]  [🔄 In Progress] [Note : กำลังทำฉาก]
 
 ---
 
 ## Daily Notes
 
-### [01/09/2026]
+### [08/09/2026]
 
-**เมื่อวาน:** ทำ Fight System
-**วันนี้:** Enemy
+**เมื่อวาน:** -
+**วันนี้:** -
 **Blocked:** -
 
 ---
