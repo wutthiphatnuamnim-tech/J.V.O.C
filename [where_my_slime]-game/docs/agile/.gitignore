@@ -31,3 +31,12 @@ obj/
 Content/bin/
 Content/obj/
 *.mgcontent
+
+# ==========================================
+# Personal IDE & Temp (Added by Member)
+# ==========================================
+bin/
+obj/
+.vs/
+*.Nueng
+*.suo
