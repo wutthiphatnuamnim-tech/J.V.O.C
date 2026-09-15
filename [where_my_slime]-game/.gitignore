@@ -22,3 +22,12 @@ Content/obj/
 # OS
 .DS_Store
 Thumbs.db
+
+# ==========================================
+# Personal IDE & Temp (Added by Member)
+# ==========================================
+bin/
+obj/
+.vs/
+*.user
+*.suo
