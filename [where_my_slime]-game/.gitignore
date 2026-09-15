@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+
+# MonoGame Content Pipeline
+Content/bin/
+Content/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Obsidian (personal workspace)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# OS
+.DS_Store
+Thumbs.db
