@@ -1,0 +1,16 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/Where my slime/Where my slime/Content/Audio/battle_theme.mp3","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Audio/battle_theme.xnb","SongProcessor","SongContent",1707407,130,0.6463287
+"E:/Where my slime/Where my slime/Content/Audio/Deadsound.mp3","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Audio/Deadsound.xnb","SoundEffectProcessor","SoundEffectContent",7056,47445,0.1240416
+"E:/Where my slime/Where my slime/Content/Audio/menu_theme.mp3","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Audio/menu_theme.xnb","SongProcessor","SongContent",1620680,128,0.4943956
+"E:/Where my slime/Where my slime/Content/Audio/UI_Click.mp3","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Audio/UI_Click.xnb","SoundEffectProcessor","SoundEffectContent",3072,43387,0.1197026
+"E:/Where my slime/Where my slime/Content/bg_Battle_01.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/bg_Battle_01.xnb","TextureProcessor","Texture2DContent",24568,8294485,0.1634642
+"E:/Where my slime/Where my slime/Content/char_Elma_Attack.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/char_Elma_Attack.xnb","TextureProcessor","Texture2DContent",18460,2048085,0.049267
+"E:/Where my slime/Where my slime/Content/char_Elma_Idle.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/char_Elma_Idle.xnb","TextureProcessor","Texture2DContent",11265,819285,0.0314392
+"E:/Where my slime/Where my slime/Content/charac5-export.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/charac5-export.xnb","TextureProcessor","Texture2DContent",1517,262229,0.0228803
+"E:/Where my slime/Where my slime/Content/Character1.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Character1.xnb","TextureProcessor","Texture2DContent",2099,262229,0.0343388
+"E:/Where my slime/Where my slime/Content/Charater/Test_Charater.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Charater/Test_Charater.xnb","TextureProcessor","Texture2DContent",40131,204885,0.026314
+"E:/Where my slime/Where my slime/Content/DefaultFont.spritefont","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.1008393
+"E:/Where my slime/Where my slime/Content/Effect/Dead_Effect.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Effect/Dead_Effect.xnb","TextureProcessor","Texture2DContent",11347,921685,0.0427941
+"E:/Where my slime/Where my slime/Content/Enemy/Test_Enemy.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Enemy/Test_Enemy.xnb","TextureProcessor","Texture2DContent",40040,204885,0.0217697
+"E:/Where my slime/Where my slime/Content/Intro_BG_Test001.png","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Intro_BG_Test001.xnb","TextureProcessor","Texture2DContent",35229,921685,0.0281031
+"E:/Where my slime/Where my slime/Content/LogoTest1.jpg","E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/LogoTest1.xnb","TextureProcessor","Texture2DContent",893962,16908373,0.2434305

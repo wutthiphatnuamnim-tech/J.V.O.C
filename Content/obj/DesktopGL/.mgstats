@@ -1,0 +1,16 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/How/How/Content/Audio/battle_theme.mp3","E:/How/How/Content/bin/DesktopGL/Audio/battle_theme.xnb","SongProcessor","SongContent",1707407,130,0.6106251
+"E:/How/How/Content/Audio/Deadsound.mp3","E:/How/How/Content/bin/DesktopGL/Audio/Deadsound.xnb","SoundEffectProcessor","SoundEffectContent",7056,47445,0.3076315
+"E:/How/How/Content/Audio/menu_theme.mp3","E:/How/How/Content/bin/DesktopGL/Audio/menu_theme.xnb","SongProcessor","SongContent",1620680,128,0.4882593
+"E:/How/How/Content/Audio/UI_Click.mp3","E:/How/How/Content/bin/DesktopGL/Audio/UI_Click.xnb","SoundEffectProcessor","SoundEffectContent",3072,43387,0.1773734
+"E:/How/How/Content/bg_Battle_01.png","E:/How/How/Content/bin/DesktopGL/bg_Battle_01.xnb","TextureProcessor","Texture2DContent",24568,8294485,0.1630092
+"E:/How/How/Content/char_Elma_Attack.png","E:/How/How/Content/bin/DesktopGL/char_Elma_Attack.xnb","TextureProcessor","Texture2DContent",18460,2048085,0.0284409
+"E:/How/How/Content/char_Elma_Idle.png","E:/How/How/Content/bin/DesktopGL/char_Elma_Idle.xnb","TextureProcessor","Texture2DContent",11265,819285,0.0132509
+"E:/How/How/Content/charac5-export.png","E:/How/How/Content/bin/DesktopGL/charac5-export.xnb","TextureProcessor","Texture2DContent",1517,262229,0.0059244
+"E:/How/How/Content/Character1.png","E:/How/How/Content/bin/DesktopGL/Character1.xnb","TextureProcessor","Texture2DContent",2099,262229,0.0073126
+"E:/How/How/Content/Charater/Test_Charater.png","E:/How/How/Content/bin/DesktopGL/Charater/Test_Charater.xnb","TextureProcessor","Texture2DContent",40131,204885,0.1162163
+"E:/How/How/Content/DefaultFont.spritefont","E:/How/How/Content/bin/DesktopGL/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.0670658
+"E:/How/How/Content/Effect/Dead_Effect.png","E:/How/How/Content/bin/DesktopGL/Effect/Dead_Effect.xnb","TextureProcessor","Texture2DContent",11347,921685,0.1620693
+"E:/How/How/Content/Enemy/Test_Enemy.png","E:/How/How/Content/bin/DesktopGL/Enemy/Test_Enemy.xnb","TextureProcessor","Texture2DContent",40040,204885,0.1239991
+"E:/How/How/Content/Intro_BG_Test001.png","E:/How/How/Content/bin/DesktopGL/Intro_BG_Test001.xnb","TextureProcessor","Texture2DContent",35229,921685,0.0253577
+"E:/How/How/Content/LogoTest1.jpg","E:/How/How/Content/bin/DesktopGL/LogoTest1.xnb","TextureProcessor","Texture2DContent",893962,16908373,0.2673835

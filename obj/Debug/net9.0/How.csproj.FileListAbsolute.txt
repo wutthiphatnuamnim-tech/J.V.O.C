@@ -1,0 +1,168 @@
+E:\New Again\How\How\bin\Debug\net9.0\Content\Audio\battle_theme.ogg
+E:\New Again\How\How\bin\Debug\net9.0\Content\Audio\battle_theme.xnb
+E:\New Again\How\How\bin\Debug\net9.0\Content\Audio\menu_theme.ogg
+E:\New Again\How\How\bin\Debug\net9.0\Content\Audio\menu_theme.xnb
+E:\New Again\How\How\bin\Debug\net9.0\Content\bg_Battle_01.xnb
+E:\New Again\How\How\bin\Debug\net9.0\Content\charac5-export.xnb
+E:\New Again\How\How\bin\Debug\net9.0\Content\Character1.xnb
+E:\New Again\How\How\bin\Debug\net9.0\Content\DefaultFont.xnb
+E:\New Again\How\How\bin\Debug\net9.0\Content\Intro_BG_Test001.xnb
+E:\New Again\How\How\bin\Debug\net9.0\Content\SpriteFont.xnb
+E:\New Again\How\How\bin\Debug\net9.0\How.exe
+E:\New Again\How\How\bin\Debug\net9.0\How.deps.json
+E:\New Again\How\How\bin\Debug\net9.0\How.runtimeconfig.json
+E:\New Again\How\How\bin\Debug\net9.0\How.dll
+E:\New Again\How\How\bin\Debug\net9.0\How.pdb
+E:\New Again\How\How\bin\Debug\net9.0\Autofac.dll
+E:\New Again\How\How\bin\Debug\net9.0\MonoGame.Extended.dll
+E:\New Again\How\How\bin\Debug\net9.0\MonoGame.Extended.Content.Pipeline.dll
+E:\New Again\How\How\bin\Debug\net9.0\MonoGame.Framework.dll
+E:\New Again\How\How\bin\Debug\net9.0\NVorbis.dll
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+E:\New Again\How\How\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+E:\New Again\How\How\obj\Debug\net9.0\mgcb.tool.restore
+E:\New Again\How\How\obj\Debug\net9.0\How.csproj.AssemblyReference.cache
+E:\New Again\How\How\obj\Debug\net9.0\How.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Again\How\How\obj\Debug\net9.0\How.AssemblyInfoInputs.cache
+E:\New Again\How\How\obj\Debug\net9.0\How.AssemblyInfo.cs
+E:\New Again\How\How\obj\Debug\net9.0\How.csproj.CoreCompileInputs.cache
+E:\New Again\How\How\obj\Debug\net9.0\How.sourcelink.json
+E:\New Again\How\How\obj\Debug\net9.0\How.csproj.Up2Date
+E:\New Again\How\How\obj\Debug\net9.0\How.dll
+E:\New Again\How\How\obj\Debug\net9.0\refint\How.dll
+E:\New Again\How\How\obj\Debug\net9.0\How.pdb
+E:\New Again\How\How\obj\Debug\net9.0\How.genruntimeconfig.cache
+E:\New Again\How\How\obj\Debug\net9.0\ref\How.dll
+E:\How\How\obj\Debug\net9.0\mgcb.tool.restore
+E:\How\How\obj\Debug\net9.0\How.csproj.AssemblyReference.cache
+E:\How\How\obj\Debug\net9.0\How.GeneratedMSBuildEditorConfig.editorconfig
+E:\How\How\obj\Debug\net9.0\How.AssemblyInfoInputs.cache
+E:\How\How\obj\Debug\net9.0\How.AssemblyInfo.cs
+E:\How\How\obj\Debug\net9.0\How.csproj.CoreCompileInputs.cache
+E:\How\How\obj\Debug\net9.0\How.sourcelink.json
+E:\How\How\bin\Debug\net9.0\Content\Audio\battle_theme.ogg
+E:\How\How\bin\Debug\net9.0\Content\Audio\battle_theme.xnb
+E:\How\How\bin\Debug\net9.0\Content\Audio\menu_theme.ogg
+E:\How\How\bin\Debug\net9.0\Content\Audio\menu_theme.xnb
+E:\How\How\bin\Debug\net9.0\Content\bg_Battle_01.xnb
+E:\How\How\bin\Debug\net9.0\Content\charac5-export.xnb
+E:\How\How\bin\Debug\net9.0\Content\Character1.xnb
+E:\How\How\bin\Debug\net9.0\Content\DefaultFont.xnb
+E:\How\How\bin\Debug\net9.0\Content\Intro_BG_Test001.xnb
+E:\How\How\bin\Debug\net9.0\Content\SpriteFont.xnb
+E:\How\How\bin\Debug\net9.0\How.exe
+E:\How\How\bin\Debug\net9.0\How.deps.json
+E:\How\How\bin\Debug\net9.0\How.runtimeconfig.json
+E:\How\How\bin\Debug\net9.0\How.dll
+E:\How\How\bin\Debug\net9.0\How.pdb
+E:\How\How\bin\Debug\net9.0\Autofac.dll
+E:\How\How\bin\Debug\net9.0\MonoGame.Extended.dll
+E:\How\How\bin\Debug\net9.0\MonoGame.Extended.Content.Pipeline.dll
+E:\How\How\bin\Debug\net9.0\MonoGame.Framework.dll
+E:\How\How\bin\Debug\net9.0\NVorbis.dll
+E:\How\How\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+E:\How\How\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+E:\How\How\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+E:\How\How\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+E:\How\How\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+E:\How\How\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+E:\How\How\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+E:\How\How\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+E:\How\How\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+E:\How\How\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+E:\How\How\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+E:\How\How\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+E:\How\How\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+E:\How\How\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\How\How\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+E:\How\How\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+E:\How\How\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+E:\How\How\obj\Debug\net9.0\How.csproj.Up2Date
+E:\How\How\obj\Debug\net9.0\How.dll
+E:\How\How\obj\Debug\net9.0\refint\How.dll
+E:\How\How\obj\Debug\net9.0\How.pdb
+E:\How\How\obj\Debug\net9.0\How.genruntimeconfig.cache
+E:\How\How\obj\Debug\net9.0\ref\How.dll
+E:\How\How\bin\Debug\net9.0\Content\LogoTest1.xnb
+E:\How\How\bin\Debug\net9.0\Content\char_Elma_Attack.xnb
+E:\How\How\bin\Debug\net9.0\Content\char_Elma_Idle.xnb
+E:\How\How\bin\Debug\net9.0\Content\Audio\UI_Click.ogg
+E:\How\How\bin\Debug\net9.0\Content\Audio\UI_Click.xnb
+E:\How\How\bin\Debug\net9.0\Content\Charater\Test_Charater.xnb
+E:\How\How\bin\Debug\net9.0\Content\Enemy\Test_Enemy.xnb
+E:\How\How\bin\Debug\net9.0\Content\Audio\Deadsound.xnb
+E:\How\How\bin\Debug\net9.0\Content\Effect\Dead_Effect.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Audio\UI_Click.ogg
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\SpriteFont.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Audio\battle_theme.ogg
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Audio\battle_theme.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Audio\Deadsound.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Audio\menu_theme.ogg
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Audio\menu_theme.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Audio\UI_Click.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\bg_Battle_01.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\charac5-export.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Character1.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Charater\Test_Charater.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\char_Elma_Attack.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\char_Elma_Idle.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\DefaultFont.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Effect\Dead_Effect.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Enemy\Test_Enemy.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\Intro_BG_Test001.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Content\LogoTest1.xnb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\How.exe
+E:\Where my slime\Where my slime\bin\Debug\net9.0\How.deps.json
+E:\Where my slime\Where my slime\bin\Debug\net9.0\How.runtimeconfig.json
+E:\Where my slime\Where my slime\bin\Debug\net9.0\How.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\How.pdb
+E:\Where my slime\Where my slime\bin\Debug\net9.0\Autofac.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\MonoGame.Extended.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\MonoGame.Extended.Content.Pipeline.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\MonoGame.Framework.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\NVorbis.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\win-arm64\native\openal.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\linux-arm64\native\libSDL2-2.0.so.0
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\win-arm64\native\SDL2.dll
+E:\Where my slime\Where my slime\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+E:\Where my slime\Where my slime\obj\Debug\net9.0\mgcb.tool.restore
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.csproj.AssemblyReference.cache
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.GeneratedMSBuildEditorConfig.editorconfig
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.AssemblyInfoInputs.cache
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.AssemblyInfo.cs
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.csproj.CoreCompileInputs.cache
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.sourcelink.json
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.csproj.Up2Date
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.dll
+E:\Where my slime\Where my slime\obj\Debug\net9.0\refint\How.dll
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.pdb
+E:\Where my slime\Where my slime\obj\Debug\net9.0\How.genruntimeconfig.cache
+E:\Where my slime\Where my slime\obj\Debug\net9.0\ref\How.dll

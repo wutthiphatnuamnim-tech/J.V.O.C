@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/How/How/Content/Audio/battle_theme.mp3</File>
+    <File>E:/How/How/Content/Audio/Deadsound.mp3</File>
+    <File>E:/How/How/Content/Audio/menu_theme.mp3</File>
+    <File>E:/How/How/Content/Audio/UI_Click.mp3</File>
+    <File>E:/How/How/Content/bg_Battle_01.png</File>
+    <File>E:/How/How/Content/char_Elma_Attack.png</File>
+    <File>E:/How/How/Content/char_Elma_Idle.png</File>
+    <File>E:/How/How/Content/charac5-export.png</File>
+    <File>E:/How/How/Content/Character1.png</File>
+    <File>E:/How/How/Content/Charater/Test_Charater.png</File>
+    <File>E:/How/How/Content/DefaultFont.spritefont</File>
+    <File>E:/How/How/Content/Effect/Dead_Effect.png</File>
+    <File>E:/How/How/Content/Enemy/Test_Enemy.png</File>
+    <File>E:/How/How/Content/Intro_BG_Test001.png</File>
+    <File>E:/How/How/Content/LogoTest1.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

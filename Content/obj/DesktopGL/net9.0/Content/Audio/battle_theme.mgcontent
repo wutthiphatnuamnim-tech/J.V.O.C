@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Where my slime/Where my slime/Content/Audio/battle_theme.mp3</SourceFile>
+  <SourceTime>2026-08-19T16:30:34.4940532+07:00</SourceTime>
+  <DestFile>E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Audio/battle_theme.xnb</DestFile>
+  <DestTime>2026-09-29T15:43:56.0719325+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2026-07-15T23:21:24+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2026-07-15T23:21:24+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Version</Key>
+    <Value>3.8.5.0</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/Where my slime/Where my slime/Content/bin/DesktopGL/Content/Audio/battle_theme.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/New Again/How/How/Content/File.fx</SourceFile>
+  <SourceTime>2026-07-15T22:43:38+07:00</SourceTime>
+  <DestFile>E:/New Again/How/How/Content/bin/DesktopGL/Content/SpriteFont.xnb</DestFile>
+  <DestTime>2026-08-07T18:09:40.351152+07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2026-07-15T23:21:24+07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2026-07-15T23:21:24+07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Defines</Key>
+    <Value />
+  </Parameters>
+  <Parameters>
+    <Key>Version</Key>
+    <Value>3.8.5.0</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
